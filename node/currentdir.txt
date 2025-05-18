@@ -1,0 +1,23 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2E8A-0B42
+
+ Directory of C:\Users\HolgerArnold\OneDrive - Rahsegel Solutions Group\RSG Main\10 - Projects and Programs\11 - Agents\plaidquickstart\quickstart\node
+
+05/18/2025  11:23 AM    <DIR>          .
+05/18/2025  11:08 AM    <DIR>          ..
+05/18/2025  11:05 AM                15 .dockerignore
+05/18/2025  11:19 AM               180 .env
+05/18/2025  11:05 AM                15 .env.example
+05/18/2025  11:05 AM                11 .gitignore
+05/18/2025  11:05 AM                37 .npmrc
+05/18/2025  11:05 AM                10 .nvmrc
+05/18/2025  11:05 AM               186 .prettierrc
+05/18/2025  11:23 AM                 0 currentdir.txt
+05/18/2025  11:05 AM               289 Dockerfile
+05/18/2025  11:05 AM            26,711 index.js
+05/18/2025  11:12 AM    <DIR>          node_modules
+05/18/2025  11:11 AM            49,244 package-lock.json
+05/18/2025  11:05 AM               685 package.json
+05/18/2025  11:05 AM                37 start.sh
+              13 File(s)         77,420 bytes
+               3 Dir(s)  367,561,715,712 bytes free

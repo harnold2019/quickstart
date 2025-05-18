@@ -1,0 +1,25 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2E8A-0B42
+
+ Directory of C:\Users\HolgerArnold\OneDrive - Rahsegel Solutions Group\RSG Main\10 - Projects and Programs\11 - Agents\plaidquickstart\quickstart
+
+05/18/2025  11:08 AM    <DIR>          .
+05/18/2025  11:05 AM    <DIR>          ..
+05/18/2025  11:05 AM                17 .dockerignore
+05/18/2025  11:05 AM             2,859 .env.example
+05/18/2025  11:05 AM               794 .gitignore
+05/18/2025  11:05 AM    <DIR>          assets
+05/18/2025  11:05 AM             1,778 docker-compose.yml
+05/18/2025  11:05 AM    <DIR>          frontend
+05/18/2025  11:05 AM    <DIR>          go
+05/18/2025  11:05 AM    <DIR>          java
+05/18/2025  11:05 AM             1,083 LICENSE
+05/18/2025  11:05 AM               704 Makefile
+05/18/2025  11:05 AM    <DIR>          node
+05/18/2025  11:07 AM                89 package-lock.json
+05/18/2025  11:05 AM    <DIR>          python
+05/18/2025  11:05 AM            14,049 README.md
+05/18/2025  11:05 AM    <DIR>          ruby
+05/18/2025  11:08 AM                 0 test.txt
+               9 File(s)         21,373 bytes
+               9 Dir(s)  367,646,216,192 bytes free
